@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: "Super Trades",
       theme: ThemeData(fontFamily: 'JosefinSans'),
-      home: const FourthScreen(),
+      home: const SplashScreen(),
     );
   }
 }

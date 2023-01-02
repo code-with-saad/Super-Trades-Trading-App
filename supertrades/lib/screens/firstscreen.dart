@@ -21,7 +21,7 @@ class _FirstPageState extends State<FirstPage> {
           Container(
             margin: const EdgeInsets.only(top: 100),
             decoration: const BoxDecoration(
-                image: DecorationImage(image: AssetImage("images/logo1.png"))),
+                image: DecorationImage(image: AssetImage("assets/images/logo1.png"))),
             child: Container(
               margin: const EdgeInsets.only(top: 180),
               child: const Text(

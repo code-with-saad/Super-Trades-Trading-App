@@ -40,7 +40,7 @@ class _SecondScreenState extends State<SecondScreen> {
             Container(
               margin: const EdgeInsets.only(top: 10),
               decoration: const BoxDecoration(
-                  image: DecorationImage(image: AssetImage("images/logo.png"))),
+                  image: DecorationImage(image: AssetImage("assets/images/logo.png"))),
               child: Container(
                 margin: const EdgeInsets.only(top: 150),
                 child: const Text(
